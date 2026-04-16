@@ -77,3 +77,14 @@ website/client/public/dashboard/
 /brand-colors.css
 /FINAL-REPORT-DRAFT.md
 /README2.md
+
+# Graphify output (large)
+graphify-out/
+
+# AI training artifacts (large)
+RealSync-AI-Prototype/training/
+RealSync-AI-Prototype/src/models/deberta_tokenizer/
+
+# Bot binaries
+realsync-backend/bot/realsync-bot-avatar-b64.txt
+realsync-backend/bot/silence.wav
