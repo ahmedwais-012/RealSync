@@ -2,8 +2,11 @@
 
 Real-time deepfake detection for video meetings.
 
-**Team:** Mohammed Atwani, Ahmed Sarhan,Mohamed Ghazi, Yousef Kanjo, Aws Diab  
-**Supervisor:** Dr. May El Barachi  
+> **This is the demo snapshot for the UOWD Computer Science Innovation Fair (22 May 2026).**
+> Frozen at `v1.0-innovation-fair`. Active development continues at [AtwaniGG/RealSync](https://github.com/AtwaniGG/RealSync).
+
+**Team:** Mohammed Atwani, Ahmed Sarhan, Mohamed Ghazi, Yousef Kanjo, Aws Diab
+**Supervisor:** Dr. May El Barachi
 **Course:** CSIT321 — Graduation Project, University of Wollongong in Dubai
 
 ---
